@@ -1,3 +1,7 @@
+Just started side project.
+
+Goal is to use the FYSTEC SD-WIFI module to publish log entries written by the SOLVIS SC2 control to SD-card via MQTT for integration into HomeAssistant.
+
 # WebDAV Server and a 3D Printer
 
 This project is a WiFi WebDAV server using ESP8266 SoC. It maintains the filesystem on an SD card.
